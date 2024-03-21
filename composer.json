@@ -1,0 +1,17 @@
+{
+    "name": "athiq/password_generator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Athiq\\PasswordGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Athiqulhasan",
+            "email": "athiqulhasan.4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
