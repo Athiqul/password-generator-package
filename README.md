@@ -7,7 +7,7 @@ This PHP package provides functionality to generate strong and secure passwords 
 You can install this package via Composer. Run the following command in your terminal:
 
 ```bash
-composer require your-username/password-generator
+composer require athiq/password_generator
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ composer require your-username/password-generator
 
 require 'vendor/autoload.php';
 
-use YourVendor\PasswordGenerator\PasswordGenerator;
+use athiq\PasswordGenerator\PasswordGenerator;
 
 // Create an instance of PasswordGenerator
 $passwordGenerator = new PasswordGenerator();
